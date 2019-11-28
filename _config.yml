@@ -12,3 +12,5 @@ ga_id: UA-104921371-1
 
 markdown: kramdown
 
+
+theme: jekyll-theme-midnight
