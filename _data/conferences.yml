@@ -126,18 +126,18 @@
   tags: [PRIV]
 
 - name: PETS
-  description: Privacy Enhancing Technologies Symposium
   year: 2020
+  date: "July 14-18 2020"
+  place: Montréal, Canada
+  description: Privacy Enhancing Technologies Symposium
   link: https://petsymposium.org
   deadline:
     - "2019-05-31 23:59"
     - "2019-08-31 23:59"
     - "2019-11-30 23:59"
     - "2020-02-29 23:59"
-  comment: Rolling deadline every quarter
   timezone: Etc/GMT+11
-  date: "July 14-18"
-  place: Montréal, Canada
+  comment: Rolling deadline every quarter
   tags: PRIV
 
 # Crypto
