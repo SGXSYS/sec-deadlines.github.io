@@ -128,10 +128,10 @@
   year: 2020
   link: https://petsymposium.org
   deadline:
-    - "%y-05-31 23:59"
-    - "%y-08-31 23:59"
-    - "%y-11-30 23:59"
-    - "%y-02-29 23:59"
+    - "2019-05-31 23:59"
+    - "2019-08-31 23:59"
+    - "2019-11-30 23:59"
+    - "2020-02-29 23:59"
   comment: Rolling deadline every quarter
   timezone: Etc/GMT+11
   date: July 14-18
