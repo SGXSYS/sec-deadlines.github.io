@@ -355,3 +355,16 @@
   place: Singapore
   tags: [SEC, SYS]
 
+# Database
+- name: VLDB
+  description: International Conference on Very Large Data Bases
+  year: 2020
+  link: https://vldb2020.org
+  deadline: "2020-%m-15 16:59"
+  deadline: "2020-03-15 16:59"
+  timezone: America/Los_Angeles
+  date: "August 31 - September 4 2020"
+  place: Tokyo, Japan
+  tags: [DB, SEC]
+
+
