@@ -2,12 +2,12 @@ title: Security and Privacy Conferences for SGX.
 description: Countdowns to top Security and Privacy conference deadlines.
 author: SGX-Monash. Credit to Bogdan Kulynych
 
-domain: "sec-deadlines.github.io"
+domain: "sgxsys.github.io"
 baseurl: ""
 
-twitter_username: hiddenmarkov
-github_username: sec-deadlines
-github_repo: sec-deadlines
+twitter_username: # N/A
+github_username: SGXSYS
+github_repo: sgxsys.github.io
 ga_id: UA-104921371-1
 
 markdown: kramdown
