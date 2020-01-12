@@ -10,6 +10,20 @@
   comment: Rolling deadline every month
   tags: [SEC, PRIV]
 
+- name: S&P (San Francisco)
+  year: 2021
+  date: "May 23 – 27 2020"
+  description: IEEE Symposium on Security and Privacy
+  link: https://www.ieee-security.org/TC/SP2021/cfpapers.html
+  deadline: 
+    - "%y-03-05 23:59"
+    - "%y-06-04 23:59"
+    - "%y-09-03 23:59"
+    - "%y-12-03 23:59"
+  timezone: Etc/GMT+7
+  comment: Quarterly submission deadlines
+  tags: [SEC, PRIV]
+
 - name: SafeThings
   year: 2019
   description: IEEE Workshop on the Internet of Safe Things (co-located with Oakland)
@@ -284,7 +298,7 @@
   description: International Conference on Applied Cryptography and Network Security
   year: 2020
   link: https://sites.google.com/di.uniroma1.it/ACNS2020
-  deadline: "2020-01-20 23:59"
+  deadline: "2020-01-22 23:59"
   date: June 22-25
   place: Rome, Italy
   tags: [CRYPTO, SEC]
@@ -335,3 +349,14 @@
   date: "June 24-26"
   place: Zug, Switzerland
   tags: [SEC, PRIV, CRYPTO]
+
+- name: ICDCS
+  description: CryptoValley Conference on Blockchain Technologies
+  year: 2020
+  link: https://icdcs2020.sg/index.html
+  deadline: "2020-01-13 23:59"
+  timezone: Etc/GMT+7
+  date: "July 8-10"
+  place: Singapore
+  tags: [SEC, SYS]
+
