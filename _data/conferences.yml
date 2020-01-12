@@ -66,19 +66,14 @@
   place: Taipei, Taiwan
   tags: [SEC, PRIV]
 
-- name: Usenix
-  description: Usenix Security Symposium
-  year: 2019
+- name: USENIX Security
+  description: USENIX Security Symposium
+  year: 2020
   link: https://www.usenix.org/conference/usenixsecurity19
-  deadline:
-    - "%y-08-23 19:59"
-    - "%y-11-15 19:59"
-    - "%y-02-15 19:59"
-    - "%y-05-15 19:59"
-  comment: Rolling deadline every quarter
+  deadline: "2020-02-15 19:59"
   timezone: America/New_York
-  date: "August 14-16"
-  place: Santa Clara, CA, USA
+  date: "August 12-14 2020"
+  place: Boston, MA, USA
   tags: [SEC, PRIV]
 
 - name: NDSS
@@ -86,20 +81,19 @@
   year: 2020
   link: https://www.ndss-symposium.org/ndss2020/
   deadline:
-    - "%y-06-14 23:59"
-    - "%y-09-13 23:59"
+    - "2019-06-14 23:59"
+    - "2019-09-13 23:59"
   date: February 23-26
   place: San Diego, CA, USA
   tags: SEC
 
 - name: ESORICS
   description: European Symposium on Research in Computer Security
-  year: 2019
-  link: https://esorics2019.uni.lu/
-  deadline: "2019-04-29 23:59"
-  timezone: Etc/UTC-11
-  date: September 23-27
-  place: Luxembourg
+  year: 2020
+  link: http://esorics2020.sccs.surrey.ac.uk
+  deadline: "2020-04-10 23:59"
+  date: "September 14-18 2020"
+  place: Guildford, Surrey, UK
   tags: [SEC, PRIV]
 
 - name: WiSec
@@ -209,7 +203,7 @@
   deadline:
     - "%y-02-07 23:59"
   comment: Rolling deadline three times per year
-  date: June 22-26
+  date: "June 22-26 2020"
   place: Boston, MA, USA
   tags: [SEC, PRIV]
 
