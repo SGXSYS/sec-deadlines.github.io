@@ -235,16 +235,16 @@
 
 - name: TCHES
   description: IACR Transactions on Cryptographic Hardware and Embedded Systems
-  year: 2019
+  year: 2020
   link: https://ches.iacr.org/
   deadline:
-    - "%y-07-15 23:59"
-    - "%y-10-15 23:59"
-    - "%y-01-15 23:59"
-    - "%y-04-15 23:59"
+    - "2019-07-15 23:59"
+    - "2019-10-15 23:59"
+    - "2020-01-15 23:59"
+    - "2020-04-15 23:59"
   comment: Rolling deadline every 3 months
-  date: August 25-28
-  place: Atlanta, US
+  date: September 14-17
+  place: Beijing, China
   tags: [SEC, CRYPTO]
 
 # Networks and systems, applications
