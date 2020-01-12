@@ -1,8 +1,9 @@
 ---
 # Security and Privacy
-- name: S&P (San Francisco)
+- name: S&P
   year: 2020
   date: "May 18 – 20 2020"
+  place: San Francisco, California, USA
   description: IEEE Symposium on Security and Privacy
   link: https://www.ieee-security.org/TC/SP2020/index.html
   deadline: "%y-%m-01 15:00"
@@ -10,9 +11,10 @@
   comment: Rolling deadline every month
   tags: [SEC, PRIV]
 
-- name: S&P (San Francisco)
+- name: S&P
   year: 2021
   date: "May 23 – 27 2021"
+  place: San Francisco, California, USA
   description: IEEE Symposium on Security and Privacy
   link: https://www.ieee-security.org/TC/SP2021/cfpapers.html
   deadline: 
@@ -51,7 +53,7 @@
     - "%y-01-20 23:59"
     - "%y-05-04 23:59"
   comment: Two-round submission
-  date: "November 9-13"
+  date: "November 9-13 2020"
   place: Orlando, USA
   tags: [SEC, PRIV]
 
@@ -134,7 +136,7 @@
     - "2020-02-29 23:59"
   comment: Rolling deadline every quarter
   timezone: Etc/GMT+11
-  date: July 14-18
+  date: "July 14-18"
   place: Montréal, Canada
   tags: PRIV
 
@@ -355,7 +357,7 @@
   link: https://icdcs2020.sg/index.html
   deadline: "2020-01-13 23:59"
   timezone: Etc/GMT+7
-  date: "July 8-10"
+  date: "July 8-10 2020"
   place: Singapore
   tags: [SEC, SYS]
 
