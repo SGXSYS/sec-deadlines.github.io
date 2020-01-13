@@ -381,9 +381,10 @@
   description: Annual International Conference on Mobile Computing and Networking
   year: 2020
   link: https://sigmobile.org/mobicom/2020/
-  deadline: "2020-03-07 21:59"
+  deadline: "2020-03-11 21:59"
   date: "September 21-25 2020"
   place: London, United Kingdom
+  comment: Submit the abstract before 07 March 2020
   tags: [INFO, SEC, SYS]
 
 # Database
