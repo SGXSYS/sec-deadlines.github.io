@@ -377,6 +377,7 @@
   timezone: America/Los_Angeles
   date: "August 31 - September 4 2020"
   place: Tokyo, Japan
+  comment: Rolling deadline every month
   tags: [DB, SEC]
 
 
