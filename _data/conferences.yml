@@ -3,7 +3,7 @@
 - name: S&P
   year: 2020
   date: "May 18 – 20 2020"
-  place: San Francisco, California, USA
+  place: San Francisco, CA, USA
   description: IEEE Symposium on Security and Privacy
   link: https://www.ieee-security.org/TC/SP2020/index.html
   deadline: "%y-%m-01 15:00"
@@ -14,7 +14,7 @@
 - name: S&P
   year: 2021
   date: "May 23 – 27 2021"
-  place: San Francisco, California, USA
+  place: San Francisco, CA, USA
   description: IEEE Symposium on Security and Privacy
   link: https://www.ieee-security.org/TC/SP2021/cfpapers.html
   deadline: 
@@ -383,7 +383,7 @@
   link: https://sigmobile.org/mobicom/2020/
   deadline: "2020-03-11 21:59"
   date: "September 21-25 2020"
-  place: London, United Kingdom
+  place: London, UK
   comment: Submit the abstract before 07 March 2020
   tags: [INFO, SEC, SYS]
 
