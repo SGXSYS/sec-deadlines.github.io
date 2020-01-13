@@ -355,13 +355,25 @@
   place: Singapore
   tags: [SEC, SYS]
 
+- name: IEEE ICNP
+  description: IEEE International Conference on Network Protocols
+  year: 2020
+  link: https://icdcs2020.sg/index.html
+  deadline: "2020-05-26 23:59"
+  timezone: America/New_York
+  date: "October 13-16 2020"
+  place: Madrid, Spain
+  comment: Submit the abstract before 19 May 2020
+  tags: [INFO, SYS, SEC]
+
 # Database
 - name: VLDB
   description: International Conference on Very Large Data Bases
   year: 2020
   link: https://vldb2020.org
-  deadline: "2020-%m-15 16:59"
-  deadline: "2020-03-15 16:59"
+  deadline: 
+    - "2020-02-01 16:59"
+    - "2020-03-01 16:59"
   timezone: America/Los_Angeles
   date: "August 31 - September 4 2020"
   place: Tokyo, Japan

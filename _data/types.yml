@@ -5,6 +5,8 @@
   tag: PRIV
 - name: Crypto
   tag: CRYPTO
+- name: Network
+  tag: INFO
 - name: System
   tag: SYS
 - name: Database
