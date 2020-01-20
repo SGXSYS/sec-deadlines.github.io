@@ -377,15 +377,26 @@
   comment: Submit the abstract before 19 May 2020
   tags: [INFO, SYS, SEC]
 
-- name: MobiCom
-  description: Annual International Conference on Mobile Computing and Networking
+- name: IEEE ICNP
+  description: IEEE International Conference on Network Protocols
   year: 2020
-  link: https://sigmobile.org/mobicom/2020/
-  deadline: "2020-03-11 21:59"
-  date: "September 21-25 2020"
-  place: London, UK
-  comment: Submit the abstract before 7 Mar 2020
-  tags: [INFO, SEC, SYS]
+  link: https://icdcs2020.sg/index.html
+  deadline: "2020-05-26 23:59"
+  timezone: America/New_York
+  date: "October 13-16 2020"
+  place: Madrid, Spain
+  comment: Submit the abstract before 19 May 2020
+  tags: [INFO, SYS, SEC]
+
+- name: HotCloud
+  description: USENIX Workshop on Hot Topics in Cloud Computing
+  year: 2020
+  link: https://www.usenix.org/conference/hotcloud20
+  deadline: "2020-03-17 20:59"
+  Timezone: America/Los_Angeles
+  date: "July 13 2020"
+  place: Boston, MA, USA
+  tags: [SEC, SYS]
 
 # Database
 - name: VLDB
