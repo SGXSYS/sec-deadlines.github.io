@@ -353,8 +353,18 @@
   timezone: America/Los_Angeles
   date: "November 4-6 2020"
   place: Banff, Alberta, Canada
-  comment: Submit the abstract before 3 May 2020
+  comment: Submit the abstract before 03 May 2020
   tags: [SEC, SYS]
+
+- name: MobiCom
+  description: Annual International Conference on Mobile Computing and Networking
+  year: 2020
+  link: https://sigmobile.org/mobicom/2020/
+  deadline: "2020-03-11 21:59"
+  date: "September 21-25 2020"
+  place: London, UK
+  comment: Submit the abstract before 07 March 2020
+  tags: [INFO, SYS, SEC]
 
 - name: ICDCS
   description: IEEE International Conference on Distributed Computing Systems
@@ -375,6 +385,17 @@
   date: "October 13-16 2020"
   place: Madrid, Spain
   comment: Submit the abstract before 19 May 2020
+  tags: [INFO, SYS, SEC]
+
+- name: IWQoS
+  description: IEEE/ACM International Symposium on Quality of Service
+  year: 2020
+  link: https://iwqos2020.ieee-iwqos.org
+  deadline: "2020-02-10 23:59"
+  timezone: America/New_York
+  date: "June 15-17 2020"
+  place: Hangzhou, China
+  comment: Submit the abstract before 03 February 2020
   tags: [INFO, SYS, SEC]
 
 - name: HotCloud
