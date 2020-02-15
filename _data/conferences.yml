@@ -422,4 +422,18 @@
   comment: Rolling deadline every month
   tags: [DB, SEC]
 
+- name: VLDB
+  description: International Conference on Very Large Data Bases
+  year: 2021
+  link: https://vldb.org/2021/
+  deadline: 
+    - "2020-%m-01 16:59"
+    - "2021-01-01 16:59"
+    - "2021-02-01 16:59"
+    - "2021-03-01 16:59"
+  timezone: America/Los_Angeles
+  date: "August 16 - 20 2021"
+  place: Copenhagen, Denmark
+  comment: Rolling deadline every month
+  tags: [DB, SEC]
 
