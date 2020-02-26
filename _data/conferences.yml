@@ -355,8 +355,7 @@
   timezone: America/New_York
   date: "April 12-14 2021"
   place: Boston, MA, USA
-  comment: Two-round submission.
-  comment: Submit the abstract before 10 April/September 2020
+  comment: Two-round submission\\ Submit the abstract before 10 April/September 2020
   tags: [INFO, SYS]
 
 - name: OSDI
