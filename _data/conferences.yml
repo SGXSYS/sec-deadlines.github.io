@@ -177,7 +177,7 @@
   tags: CRYPTO
 
 - name: AFT
-  description: ACM Comference on Advances in Financial Technologies
+  description: ACM Conference on Advances in Financial Technologies
   year: 2019
   link: https://aft.acm.org/
   deadline: "2019-05-24 23:59"
@@ -333,7 +333,7 @@
   deadline: "2019-04-05 23:59"
   date: "September 16-18"
   place: New York, USA
-  tags: [SEC, INFOR]
+  tags: [SEC, INFO]
 
 - name: CVCBT
   description: CryptoValley Conference on Blockchain Technologies
@@ -345,6 +345,19 @@
   place: Zug, Switzerland
   tags: [SEC, PRIV, CRYPTO]
 
+- name: NSDI
+  description: USENIX Symposium on Networked Systems Design and Implementation
+  year: 2021
+  link: https://www.usenix.org/conference/nsdi21
+  deadline: 
+    - "2020-04-17 11:59"
+    - "2020-09-17 11:59"
+  timezone: America/New_York
+  date: "April 12-14 2021"
+  place: Boston, MA, USA
+  comment: Two-round submission, Submit the abstract before 10 April/September 2020
+  tags: [INFO, SYS]
+
 - name: OSDI
   description: USENIX Symposium on Operating Systems Design and Implementation
   year: 2020
@@ -354,7 +367,7 @@
   date: "November 4-6 2020"
   place: Banff, Alberta, Canada
   comment: Submit the abstract before 03 May 2020
-  tags: [SEC, SYS]
+  tags: [SYS]
 
 - name: MobiCom
   description: Annual International Conference on Mobile Computing and Networking
@@ -364,7 +377,7 @@
   date: "September 21-25 2020"
   place: London, UK
   comment: Submit the abstract before 07 March 2020
-  tags: [INFO, SYS, SEC]
+  tags: [INFO, SYS]
 
 - name: ICDCS
   description: IEEE International Conference on Distributed Computing Systems
@@ -374,7 +387,7 @@
   timezone: Etc/GMT+7
   date: "July 8-10 2020"
   place: Singapore
-  tags: [SEC, SYS]
+  tags: [INFO, SYS]
 
 - name: IEEE ICNP
   description: IEEE International Conference on Network Protocols
@@ -385,7 +398,7 @@
   date: "October 13-16 2020"
   place: Madrid, Spain
   comment: Submit the abstract before 19 May 2020
-  tags: [INFO, SYS, SEC]
+  tags: [INFO, SYS]
 
 - name: IWQoS
   description: IEEE/ACM International Symposium on Quality of Service
@@ -396,7 +409,7 @@
   date: "June 15-17 2020"
   place: Hangzhou, China
   comment: Submit the abstract before 03 February 2020
-  tags: [INFO, SYS, SEC]
+  tags: [INFO, SYS]
 
 - name: HotCloud
   description: USENIX Workshop on Hot Topics in Cloud Computing
@@ -406,7 +419,7 @@
   Timezone: America/Los_Angeles
   date: "July 13 2020"
   place: Boston, MA, USA
-  tags: [SEC, SYS]
+  tags: [INFO, SEC]
 
 # Database
 - name: VLDB
@@ -420,7 +433,7 @@
   date: "August 31 - September 4 2020"
   place: Tokyo, Japan
   comment: Rolling deadline every month
-  tags: [DB, SEC]
+  tags: [DB]
 
 - name: VLDB
   description: International Conference on Very Large Data Bases
@@ -435,5 +448,5 @@
   date: "August 16 - 20 2021"
   place: Copenhagen, Denmark
   comment: Rolling deadline every month
-  tags: [DB, SEC]
+  tags: [DB]
 
