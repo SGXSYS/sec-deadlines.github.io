@@ -6,7 +6,7 @@
   place: San Francisco, CA, USA
   description: IEEE Symposium on Security and Privacy
   link: https://www.ieee-security.org/TC/SP2020/index.html
-  deadline: "%y-%m-01 15:00"
+  deadline: "2020-02-01 15:00"
   timezone: Etc/GMT+7
   comment: Rolling deadline every month
   tags: [SEC, PRIV]
@@ -91,9 +91,10 @@
   description: European Symposium on Research in Computer Security
   year: 2020
   link: http://esorics2020.sccs.surrey.ac.uk
-  deadline: "2020-04-10 23:59"
+  deadline: "2020-04-24 23:59"
   date: "September 14-18 2020"
   place: Guildford, Surrey, UK
+  comment: Submit the abstract before 17 Apr
   tags: [SEC, PRIV]
 
 - name: WiSec
@@ -263,11 +264,11 @@
 
 - name: ACSAC
   description: Annual Computer Security Applications Conference
-  year: 2019
-  link: https://www.acsac.org/2019/
-  deadline: "2019-06-08 23:59"
-  date: Dec 9-13
-  place: San Juan, Puerto Rico, USA
+  year: 2020
+  link: https://www.acsac.org
+  deadline: "2020-06-12 23:59"
+  date: "December 7-13 2020"
+  place: Austin, TX, USA
   tags: [SEC]
 
 - name: IMC
@@ -362,11 +363,11 @@
   description: USENIX Symposium on Operating Systems Design and Implementation
   year: 2020
   link: https://www.usenix.org/conference/osdi20
-  deadline: "2020-05-12 14:59"
+  deadline: "2020-05-27 14:59"
   timezone: America/Los_Angeles
   date: "November 4-6 2020"
   place: Banff, Alberta, Canada
-  comment: Submit the abstract before 03 May 2020
+  comment: Submit the abstract before 20 May 2020
   tags: [SYS]
 
 - name: MobiCom
@@ -392,7 +393,7 @@
 - name: IEEE ICNP
   description: IEEE International Conference on Network Protocols
   year: 2020
-  link: https://icdcs2020.sg/index.html
+  link: https://icnp20.cs.ucr.edu
   deadline: "2020-05-26 23:59"
   timezone: America/New_York
   date: "October 13-16 2020"
