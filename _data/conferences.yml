@@ -201,8 +201,6 @@
   year: 2020
   link: https://www.ieee-security.org/TC/CSF2020/
   deadline: "2019-09-16 23:59"
-  deadline:
-    - "%y-02-07 23:59"
   comment: Rolling deadline three times per year
   date: "June 22-26 2020"
   place: Boston, MA, USA
