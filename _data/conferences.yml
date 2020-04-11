@@ -121,17 +121,16 @@
   tags: [PRIV]
 
 - name: PETS
-  year: 2020
-  date: "July 14-18 2020"
-  place: Montréal, Canada
+  year: 2021
+  date: "July 19-24 2021"
+  place: Sydney, Australia
   description: Privacy Enhancing Technologies Symposium
   link: https://petsymposium.org
   deadline:
-    - "2019-05-31 23:59"
-    - "2019-08-31 23:59"
-    - "2019-11-30 23:59"
-    - "2020-02-29 23:59"
-  timezone: Etc/GMT+11
+    - "2020-05-31 23:59"
+    - "2020-08-31 23:59"
+    - "2020-11-30 23:59"
+    - "2021-02-28 23:59"
   comment: Rolling deadline every quarter
   tags: PRIV
 
@@ -397,6 +396,17 @@
   date: "October 13-16 2020"
   place: Madrid, Spain
   comment: Submit the abstract before 19 May 2020
+  tags: [INFO, SYS]
+
+- name: CoNEXT
+  description: International Conference on emerging Networking EXperiments and Technologies
+  year: 2020
+  link: https://conferences2.sigcomm.org/co-next/2020/#!/home
+  deadline: "2020-07-24 23:59"
+  timezone: Etc/GMT-1
+  date: "December 1-4 2020"
+  place: Barcelona, Spain
+  comment: Submit the abstract before 17 June 2020
   tags: [INFO, SYS]
 
 - name: IWQoS
