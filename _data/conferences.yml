@@ -68,12 +68,15 @@
 
 - name: USENIX Security
   description: USENIX Security Symposium
-  year: 2020
-  link: https://www.usenix.org/conference/usenixsecurity20
-  deadline: "2020-02-15 19:59"
-  timezone: America/New_York
-  date: "August 12-14 2020"
-  place: Boston, MA, USA
+  year: 2021
+  link: https://www.usenix.org/conference/usenixsecurity21
+  deadline: 
+    - "2020-06-11 23:59"
+    - "2020-11-20 23:59"
+    - "2021-02-04 23:59"
+  date: "August 11-13 2021"
+  place: Vancouver, BC, Canada
+  comment: Three-round submission deadlines
   tags: [SEC, PRIV]
 
 - name: NDSS
@@ -330,6 +333,7 @@
   link: https://isc2020.petra.ac.id
   deadline: "2020-06-28 23:59"
   date: "December 16-20 2020"
+  timezone: Etc/GMT+0
   place: Bali, Indonesia
   tags: [SEC, INFO]
 
