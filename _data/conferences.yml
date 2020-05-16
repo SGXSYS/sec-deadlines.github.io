@@ -189,12 +189,12 @@
 
 - name: CSF
   description: IEEE Computer Security Foundations Symposium
-  year: 2020
+  year: 2021
   link: https://www.ieee-security.org/TC/CSF2020/
-  deadline: "2019-09-16 23:59"
+  deadline: "2020-10-02 23:59"
   comment: Rolling deadline three times per year
-  date: "June 22-26 2020"
-  place: Boston, MA, USA
+  date: "June 21-25 2021"
+  place: Dubrovnik, Croatia
   tags: [SEC, PRIV]
 
 - name: PKC
