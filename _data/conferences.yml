@@ -135,7 +135,7 @@
 - name: CSF
   description: IEEE Computer Security Foundations Symposium
   year: 2021
-  link: https://www.ieee-security.org/TC/CSF2020/
+  link: https://www.ieee-security.org/TC/CSF2021/
   deadline: "2020-10-02 23:59"
   comment: Rolling deadline three times per year
   date: "June 21-25 2021"
@@ -310,7 +310,7 @@
   description: International Conference on emerging Networking EXperiments and Technologies
   year: 2020
   link: https://conferences2.sigcomm.org/co-next/2020/#!/home
-  deadline: "2020-07-24 23:59"
+  deadline: "2020-06-29 23:59"
   timezone: Etc/GMT-1
   date: "December 1-4 2020"
   place: Barcelona, Spain
