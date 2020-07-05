@@ -163,6 +163,7 @@
   deadline: 
     - "2020-09-04 23:59"
     - "2021-01-15 23:59"
+  comment: Two-round submission
   date: "June 21-24 2021"
   place: Kamakura, Japan
   tags: [CRYPTO, SEC]
@@ -182,8 +183,9 @@
   description: IEEE International Conference on Pervasive Computing and Communication
   year: 2021
   link: http://www.percom.org/
-  deadline: "2019-10-04 23:59"
+  deadline: "2020-10-04 23:59"
   date: "March 22-26 2021"
+  comment: Submit the abstract before 28 September 2020
   place: Kassel, German
   tags: [SEC, PRIV]
 
