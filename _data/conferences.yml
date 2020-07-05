@@ -156,7 +156,25 @@
   comment: Rolling deadline every 3 months
   tags: [SEC, CRYPTO]
 
+- name: ACNS
+  description: International Conference on Applied Cryptography and Network Security
+  year: 2020
+  link: https://sites.google.com/di.uniroma1.it/ACNS2020
+  deadline: "2020-01-22 23:59"
+  date: June 22-25
+  place: Rome, Italy
+  tags: [CRYPTO, SEC]
+
 # Networks and systems, applications
+
+- name: INFOCOM
+  description: IEEE International Conference on Computer Communications
+  year: 2021
+  link: https://www.comsoc.org/conferences-events/ieee-international-conference-computer-communications-2021
+  deadline: "2020-08-15 23:59"
+  date: "May 10-13 2021"
+  place: Vancouver, BC, Canada
+  tags: [INFO, SYS]
 
 - name: PerCom
   description: IEEE International Conference on Pervasive Computing and Communication
@@ -193,15 +211,6 @@
   date: June 29 - July 2
   place: Valencia, Spain
   tags: SEC
-
-- name: ACNS
-  description: International Conference on Applied Cryptography and Network Security
-  year: 2020
-  link: https://sites.google.com/di.uniroma1.it/ACNS2020
-  deadline: "2020-01-22 23:59"
-  date: June 22-25
-  place: Rome, Italy
-  tags: [CRYPTO, SEC]
 
 - name: eCrime
   description: Symposium on Electronic Crime Research
