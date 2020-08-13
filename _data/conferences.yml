@@ -277,6 +277,17 @@
   comment: Submit the abstract before 10 April/September 2020
   tags: [INFO, SYS]
 
+- name: EuroSys
+  description: The European Conference on Computer Systems
+  year: 2021
+  link: https://2021.eurosys.org
+  deadline: "2020-10-09 23:59"
+  timezone: Etc/UTC
+  date: "April 26-29 2021"
+  place: Edinburgh, Scotland
+  comment: Submit the abstract before 1 Oct 2020
+  tags: [SYS]
+
 - name: OSDI
   description: USENIX Symposium on Operating Systems Design and Implementation
   year: 2020
