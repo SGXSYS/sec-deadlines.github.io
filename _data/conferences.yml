@@ -1,18 +1,16 @@
 ---
 # Security and Privacy
 - name: S&P
-  year: 2021
-  date: "May 23 – 27 2021"
-  place: San Francisco, CA, USA
+  year: 2022
+  date: "May 22 – 26 2022"
+  place: Virtual
   description: IEEE Symposium on Security and Privacy
-  link: https://www.ieee-security.org/TC/SP2021/cfpapers.html
+  link: https://www.ieee-security.org/TC/SP2022/cfpapers.html
   deadline: 
-    - "%y-03-05 23:59"
-    - "%y-06-04 23:59"
-    - "%y-09-03 23:59"
-    - "%y-12-03 23:59"
-  timezone: Etc/GMT+7
-  comment: Quarterly submission deadlines
+    - "2021-04-15 23:59"
+    - "2021-08-19 23:59"
+    - "2021-12-02 23:59"
+  comment: Three-round submission deadlines
   tags: [SEC, PRIV]
 
 - name: Euro S&P
@@ -51,14 +49,14 @@
 
 - name: USENIX Security
   description: USENIX Security Symposium
-  year: 2021
-  link: https://www.usenix.org/conference/usenixsecurity21
+  year: 2022
+  link: https://www.usenix.org/conference/usenixsecurity22/call-for-papers
   deadline: 
-    - "2020-06-11 23:59"
-    - "2020-11-20 23:59"
-    - "2021-02-04 23:59"
-  date: "August 11-13 2021"
-  place: Vancouver, BC, Canada
+    - "2021-06-08 23:59"
+    - "2021-10-12 23:59"
+    - "2022-02-01 23:59"
+  date: "August 10-12 2022"
+  place: Boston, MA, USA
   comment: Three-round submission deadlines
   tags: [SEC, PRIV]
 
